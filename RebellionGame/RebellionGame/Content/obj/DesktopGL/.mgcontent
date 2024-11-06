@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/AssetPack.png</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/FEUA.png</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/font.spritefont</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/gameover.png</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/gameoverbgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/lvl1bgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/lvl2bgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/lvl3bgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/mainmenubgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/press.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/rebellion.png</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/rebellionBgm.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/select.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/text.spritefont</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueDash.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueDeath.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueFullSheet.png</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueHurt.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueJump.wav</File>
+    <File>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueJump2.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

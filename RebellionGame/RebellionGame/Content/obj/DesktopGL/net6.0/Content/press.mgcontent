@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SoftCopy/2nd Yr/3rd Sem/Game Design/RebellionGame/RebellionGame/Content/press.wav</SourceFile>
+  <SourceTime>2023-07-14T16:35:54.6820975+08:00</SourceTime>
+  <DestFile>D:/SoftCopy/2nd Yr/3rd Sem/Game Design/RebellionGame/RebellionGame/Content/bin/DesktopGL/Content/press.xnb</DestFile>
+  <DestTime>2023-10-10T16:46:13.1845795+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T19:44:56+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T19:44:56+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

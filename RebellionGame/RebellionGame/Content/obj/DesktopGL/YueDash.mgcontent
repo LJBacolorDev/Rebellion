@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueDash.wav</SourceFile>
+  <SourceTime>2023-07-14T12:05:09.8307752+08:00</SourceTime>
+  <DestFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/bin/DesktopGL/YueDash.xnb</DestFile>
+  <DestTime>2023-07-14T13:19:43.4175905+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T19:44:56+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T19:44:56+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

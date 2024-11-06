@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/AssetPack.png</SourceFile>
+  <SourceTime>2023-07-09T22:49:12.9263171+08:00</SourceTime>
+  <DestFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/bin/DesktopGL/AssetPack.xnb</DestFile>
+  <DestTime>2023-07-12T17:21:39.0869617+08:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2022-07-26T19:44:56+08:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2022-07-26T19:44:56+08:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

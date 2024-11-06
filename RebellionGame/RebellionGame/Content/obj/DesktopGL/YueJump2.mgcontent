@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/YueJump2.wav</SourceFile>
+  <SourceTime>2023-07-14T13:44:57.9070927+08:00</SourceTime>
+  <DestFile>D:/SoftCopy/Game Design/RebellionGame/RebellionGame/Content/bin/DesktopGL/YueJump2.xnb</DestFile>
+  <DestTime>2023-07-14T13:48:39.0331349+08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T19:44:56+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T19:44:56+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,79 @@
+{
+  "textureAtlas": {
+    "texture": "YueFullSheet.png",
+    "regionWidth": 64,
+    "regionHeight": 64
+  },
+  "cycles": {
+    "idleR": {
+      "frames": [0,1,2,3,4,5],
+      "isLooping": true,
+      "frameDuration": 0.1
+    },
+    "idleL": {
+      "frames": [31,30,29,28,27,26],
+      "isLooping": true,
+      "frameDuration": 0.1
+    },
+    "runR": {
+      "frames": [8,9,10,11,12,13,14,15],
+      "isLooping": true,
+      "frameDuration": 0.08
+    },
+    "runL": {
+      "frames": [39,38,37,36,35,34,33,32],
+      "isLooping": true,
+      "frameDuration": 0.08
+    },
+    "jumpR": {
+      "frames": [16],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "jumpL": {
+      "frames": [44],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "fallR": {
+      "frames": [17],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "fallL": {
+      "frames": [43],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "dashR": {
+      "frames": [18],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "dashL": {
+      "frames": [42],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "wallR": {
+      "frames": [19],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "wallL": {
+      "frames": [41],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "slideR": {
+      "frames": [20],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "slideL": {
+      "frames": [40],
+      "isLooping": true,
+      "frameDuration": 0.2
+    }
+  }
+}
